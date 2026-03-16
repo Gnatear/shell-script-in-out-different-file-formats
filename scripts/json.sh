@@ -1,4 +1,4 @@
-filename="shell_text_dataset.csv"
+filename="./shell_text_dataset.csv"
 json_find_by_id(){
 key="id"
 re="\"($key)\": \"([^\"]*)\""

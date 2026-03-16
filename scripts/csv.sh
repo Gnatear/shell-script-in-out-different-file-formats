@@ -1,4 +1,4 @@
-filename="shell_text_dataset.csv"
+filename="./shell_text_dataset.csv"
 
 csv_find_by_id(){
     while IFS= read -r line; do

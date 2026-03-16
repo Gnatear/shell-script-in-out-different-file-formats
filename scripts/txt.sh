@@ -1,4 +1,4 @@
-filename="shell_text_dataset.txt"
+filename="./shell_text_dataset.txt"
 md_find_by_id(){
 while IFS= read -r line; do
         awk -F' ' '{print $1}' shell_text_dataset.txt
