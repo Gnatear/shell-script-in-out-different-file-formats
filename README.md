@@ -22,4 +22,8 @@ This project is for personal learning purpose. The project will be an experiment
 - - shell_text_dataset.json
 - - shell_text_dataset.csv
 * scripts/
-- - main.sh
+- - csv.sh
+- - json.sh
+- - md.sh
+- - txt.sh
+- - xlsx.sh
