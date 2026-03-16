@@ -1,6 +1,11 @@
 #! /bin/bash
+source ./scripts/csv.sh
+source ./scripts/json.sh
+source ./scripts/md.sh
+source ./scripts/txt.sh
+source ./scripts/xlsx.sh
 
-read_instruction(){
+read_instruction_for_search(){
 echo 'Select Commands'
 echo 'Search by id: 0'
 echo 'Search by Name: 1'
@@ -38,7 +43,8 @@ elif [$instruction == 8]; then
 elif [$instruction == 9]; then
 
 else
-    echo 'Instruction Code is not recognizable, please reinsert the Instruction Code:'
-    read_instruction
+    echo 'Instruction Code $instruction is not recognizable, please reinsert the Instruction Code:'
+    read_instruction_for_search
 fi
 }
+read_instruction_for_search
