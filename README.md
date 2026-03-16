@@ -14,6 +14,7 @@ This project is for personal learning purpose. The project will be an experiment
 ## Structure
 ### project/
 * README.md
+* main.sh
 * in/
 - - shell_text_dataset.xlsx
 - - shell_text_dataset.txt
