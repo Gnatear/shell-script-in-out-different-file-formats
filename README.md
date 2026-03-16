@@ -11,8 +11,8 @@ This project is for personal learning purpose. The project will be an experiment
 -  comma-separated tags
 ### File formats are in: CSV, JSON, .xlsx, Markdown dataset, Plain text dataset.
 ### In the first version I will focus on making read/search/output work, and then I might add more advanced functions and try automation stuffs.
-##Structure
-## project/
+## Structure
+### project/
 * README.md
 * in/
 - - shell_text_dataset.xlsx
