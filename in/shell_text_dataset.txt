@@ -1,0 +1,16 @@
+id name email city number unicode sentence code url tags 1 Alice Zhang
+alice.z@example.com Halifax 42 雪 / snow / ❄️ The quick brown fox jumps
+over the lazy dog. for i in range(3): print(i)
+https://example.com/a?x=1&y=2 alpha,beta,gamma 2 Carlos Rivera
+carlos.r@example.net Madrid 105 árbol / tree / 🌳 Shell tools like grep,
+awk, and sed process text streams. grep -i ‘error’ logfile.txt
+https://example.net/api/v1/users delta,epsilon,zeta 3 Fatima Noor
+fatima.n@example.org Dubai 7 نجمة / star / ⭐ Structured and
+unstructured data appear in logs and documents. awk -F’,’ ‘{print
+$1,$3}’ file.csv https://example.org/docs?id=33 eta,theta,iota 4 Lars
+Müller lars.m@example.de Berlin 999 straße / street / 🛣️ Regular
+expressions enable powerful searching patterns. sed ‘s/error/warning/g’
+log.txt https://example.de/search?q=shell kappa,lambda,mu 5 Yuki Tanaka
+yuki.t@example.jp Tokyo 256 桜 / sakura / 🌸 Combining pipelines
+improves command‑line productivity. cat file.txt | grep data | sort |
+uniq https://example.jp/tools nu,xi,omicron

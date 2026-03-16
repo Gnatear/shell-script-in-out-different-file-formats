@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Zhang",
+    "email": "alice.z@example.com",
+    "city": "Halifax",
+    "number": 42,
+    "unicode": "雪 / snow / ❄️",
+    "sentence": "The quick brown fox jumps over the lazy dog.",
+    "code": "for i in range(3): print(i)",
+    "url": "https://example.com/a?x=1&y=2",
+    "tags": "alpha,beta,gamma"
+  },
+  {
+    "id": 2,
+    "name": "Carlos Rivera",
+    "email": "carlos.r@example.net",
+    "city": "Madrid",
+    "number": 105,
+    "unicode": "árbol / tree / 🌳",
+    "sentence": "Shell tools like grep, awk, and sed process text streams.",
+    "code": "grep -i 'error' logfile.txt",
+    "url": "https://example.net/api/v1/users",
+    "tags": "delta,epsilon,zeta"
+  },
+  {
+    "id": 3,
+    "name": "Fatima Noor",
+    "email": "fatima.n@example.org",
+    "city": "Dubai",
+    "number": 7,
+    "unicode": "نجمة / star / ⭐",
+    "sentence": "Structured and unstructured data appear in logs and documents.",
+    "code": "awk -F',' '{print $1,$3}' file.csv",
+    "url": "https://example.org/docs?id=33",
+    "tags": "eta,theta,iota"
+  },
+  {
+    "id": 4,
+    "name": "Lars Müller",
+    "email": "lars.m@example.de",
+    "city": "Berlin",
+    "number": 999,
+    "unicode": "straße / street / 🛣️",
+    "sentence": "Regular expressions enable powerful searching patterns.",
+    "code": "sed 's/error/warning/g' log.txt",
+    "url": "https://example.de/search?q=shell",
+    "tags": "kappa,lambda,mu"
+  },
+  {
+    "id": 5,
+    "name": "Yuki Tanaka",
+    "email": "yuki.t@example.jp",
+    "city": "Tokyo",
+    "number": 256,
+    "unicode": "桜 / sakura / 🌸",
+    "sentence": "Combining pipelines improves command‑line productivity.",
+    "code": "cat file.txt | grep data | sort | uniq",
+    "url": "https://example.jp/tools",
+    "tags": "nu,xi,omicron"
+  }
+]
