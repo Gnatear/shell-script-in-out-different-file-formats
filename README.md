@@ -27,3 +27,5 @@ This project is for personal learning purpose. The project will be an experiment
 - - md.sh
 - - txt.sh
 - - xlsx.sh
+
+## For now this project has contents in all the files except xlsx.sh. I haven't figured out a way that makes sense to read from xlsx without installing packages since I wanted this project to work on bare linux environments. Also haven't debug. Might have problems.
